@@ -33,7 +33,9 @@ Finally, here are a few of my other favorites:
 
 ### Mariposa (Winter 2025 - Summer 2025)
 
-<!-- picture -->
+<picture>
+    <img src="/images/mariposa-thumbnail.png" alt="Mariposa title graphic" height="300" />
+</picture>
 _Mariposa title graphic by Jolina Leong_
 
 > Mariposa is a 2D puzzle-platformer game that harnesses the butterfly effect, shaping the past to change the future. Every interaction with Mariposa, an automatonsmith from a utopian past, will billow out into time itself—and guiding a ghost from a forgotten era might be enough to change your fate.
@@ -44,7 +46,9 @@ Mariposa was the result of VGDC's 2025 'The Chanel Project' (TCP), a clubwide pr
 
 ### Tethered Spirit (Fall 2024)
 
-<!-- picture -->
+<picture>
+    <img src="/images/tethered-spirit-thumbnail.png" alt="Tethered Spirit title graphic" height="300" />
+</picture>
 _Tethered Spirit title graphic by Tamika Hsieh_
 
 > Tethered Sprit is a 2D fantasy escape room game where the player's body and spirit have been severed and locked away in two separate rooms. The player must solve a series of puzzles to complete the ritual that will tether their spirit back to their body, allowing them to escape.
@@ -55,7 +59,9 @@ Tethered Spirit was my first project with VGDC at UC San Diego! During the two-w
 
 ### OSSA (Fall 2025)
 
-<!-- picture -->
+<picture>
+    <img src="/images/ossa-thumbnail.png" alt="OSSA title graphic" height="300" />
+</picture>
 _OSSA title graphic by Jolina Leong_
 
 > _Do you like **BONES**?_ 
@@ -68,7 +74,9 @@ OSSA was made in just 24 hours by a team of three for VGDC's Fall 2025 teeny-tin
 
 ### Plotweaver (Winter 2026)
 
-<!-- picture -->
+<picture>
+    <img src="/images/plotweaver-thumbnail.png" alt="Plotweaver title graphic" height="300" />
+</picture>
 _Plotweaver title graphic by Cass Adefuin_
 
 > _Before you, toiling ink unfurls to Fate’s design; which road will you take?_
