@@ -81,7 +81,7 @@ Plotweaver was the first project that I personally pitched and performed project
 
 ## Game Development Goals
 
--[x] Publish a game on Steam with VGDC (Mariposa)
--[x] Lead my own team to develop a game (Plotweaver)
--[ ] Self-publish a solo game on Steam (Summer 2026)
--[ ] Profit?
+- [x] Publish a game on Steam with VGDC (Mariposa)
+- [x] Lead my own team to develop a game (Plotweaver)
+- [ ] Self-publish a solo game on Steam (Summer 2026)
+- [ ] Profit?
