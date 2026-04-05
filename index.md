@@ -29,6 +29,8 @@ Finally, here are a few of my other favorites:
   - Messi or Ronaldo: Messi
 - TV Show: Andor
 
+Here's a picture of [me](/images/portrait.jpg)!
+
 ## Portfolio
 
 ### Mariposa (Winter 2025 - Summer 2025)
