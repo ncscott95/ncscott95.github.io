@@ -1,6 +1,4 @@
-# Nathan Scott
-
-## Introduction
+# Introduction
 
 ```
 void Start()
@@ -31,9 +29,9 @@ Finally, here are a few of my other favorites:
 
 Here's a picture of [me](/images/portrait.jpg)!
 
-## Portfolio
+# Portfolio
 
-### Mariposa (Winter 2025 - Summer 2025)
+## Mariposa (Winter 2025 - Summer 2025)
 
 <picture>
     <img src="/images/mariposa-thumbnail.png" alt="Mariposa title graphic" height="300" />
@@ -47,7 +45,7 @@ Mariposa was the result of VGDC's 2025 'The Chanel Project' (TCP), a clubwide pr
 
 [Play Mariposa for free on Steam](https://store.steampowered.com/app/3991120/Mariposa/)
 
-### Tethered Spirit (Fall 2024)
+## Tethered Spirit (Fall 2024)
 
 <picture>
     <img src="/images/tethered-spirit-thumbnail.png" alt="Tethered Spirit title graphic" height="300" />
@@ -61,7 +59,7 @@ Tethered Spirit was my first project with VGDC at UC San Diego! During the two-w
 
 [Play Tethered Spirit for free on itch.io](https://valius95.itch.io/tethered-spirit)
 
-### OSSA (Fall 2025)
+## OSSA (Fall 2025)
 
 <picture>
     <img src="/images/ossa-thumbnail.png" alt="OSSA title graphic" height="300" />
@@ -77,7 +75,7 @@ OSSA was made in just 24 hours by a team of three for VGDC's Fall 2025 teeny-tin
 
 [Play OSSA for free on itch.io](https://valius95.itch.io/ossa)
 
-### Plotweaver (Winter 2026)
+## Plotweaver (Winter 2026)
 
 <picture>
     <img src="/images/plotweaver-thumbnail.png" alt="Plotweaver title graphic" height="300" />
@@ -93,7 +91,7 @@ Plotweaver was the first project that I personally pitched and performed project
 
 [Play Plotweaver for free on itch.io](https://valius95.itch.io/plotweaver)
 
-## Game Development Goals
+# Game Development Goals
 
 - [x] Publish a game on Steam with VGDC (Mariposa)
 - [x] Lead my own team to develop a game (Plotweaver)
